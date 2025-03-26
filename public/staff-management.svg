@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+  <!-- Background -->
+  <rect x="50" y="50" width="300" height="200" rx="10" fill="#f0f9ff" />
+  
+  <!-- Store Owner -->
+  <circle cx="120" y="100" r="30" fill="#0284c7" />
+  <rect x="105" y="140" width="30" height="40" fill="#0284c7" />
+  
+  <!-- Staff Members -->
+  <circle cx="200" y="150" r="20" fill="#7dd3fc" />
+  <rect x="190" y="175" width="20" height="30" fill="#7dd3fc" />
+  
+  <circle cx="250" y="150" r="20" fill="#7dd3fc" />
+  <rect x="240" y="175" width="20" height="30" fill="#7dd3fc" />
+  
+  <circle cx="300" y="150" r="20" fill="#7dd3fc" />
+  <rect x="290" y="175" width="20" height="30" fill="#7dd3fc" />
+  
+  <!-- Connection Lines -->
+  <path d="M135 120 C 160 130, 180 140, 190 150" stroke="#0ea5e9" stroke-width="2" />
+  <path d="M135 120 C 170 130, 220 140, 250 150" stroke="#0ea5e9" stroke-width="2" />
+  <path d="M135 120 C 180 130, 260 140, 300 150" stroke="#0ea5e9" stroke-width="2" />
+  
+  <!-- Permission Icons -->
+  <circle cx="190" y="140" r="8" fill="#075985" />
+  <circle cx="250" y="140" r="8" fill="#075985" />
+  <circle cx="300" y="140" r="8" fill="white" stroke="#075985" stroke-width="2" />
+  
+  <!-- Lock/Unlock Icons -->
+  <rect x="185" y="137" width="10" height="6" fill="white" />
+  <rect x="245" y="137" width="10" height="6" fill="white" />
+  <rect x="295" y="137" width="10" height="6" fill="#075985" />
+</svg>

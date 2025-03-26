@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <!-- Background Elements -->
+  <rect x="100" y="100" width="600" height="400" rx="20" fill="#f0f9ff" />
+  
+  <!-- Store Building -->
+  <rect x="200" y="250" width="200" height="150" fill="#0284c7" />
+  <rect x="220" y="300" width="60" height="100" fill="#bae6fd" />
+  <rect x="320" y="300" width="60" height="70" fill="#bae6fd" />
+  <path d="M200 250 L300 180 L400 250 Z" fill="#075985" />
+  
+  <!-- Mobile Device -->
+  <rect x="500" y="200" width="100" height="180" rx="10" fill="#1e293b" />
+  <rect x="510" y="220" width="80" height="120" rx="2" fill="#7dd3fc" />
+  
+  <!-- Connection Lines -->
+  <path d="M400 300 C 430 280, 470 280, 500 300" stroke="#0ea5e9" stroke-width="3" stroke-dasharray="5,5" />
+  
+  <!-- Data Elements on Screen -->
+  <rect x="520" y="230" width="60" height="10" rx="2" fill="#0284c7" />
+  <rect x="520" y="250" width="60" height="10" rx="2" fill="#0284c7" />
+  <rect x="520" y="270" width="60" height="10" rx="2" fill="#0284c7" />
+  <rect x="520" y="290" width="40" height="40" rx="2" fill="#0284c7" />
+  
+  <!-- Small Icons -->
+  <circle cx="540" y="310" r="15" fill="#7dd3fc" />
+  <rect x="230" y="320" width="40" height="30" fill="#0ea5e9" />
+</svg>

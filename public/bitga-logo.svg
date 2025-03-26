@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" fill="none">
+  <!-- B Letter -->
+  <path d="M15 5 H30 Q35 5, 35 10 V15 Q35 20, 30 20 H15 V5 Z" fill="#0284c7" />
+  <path d="M15 20 H32 Q37 20, 37 25 V30 Q37 35, 32 35 H15 V20 Z" fill="#0284c7" />
+  <path d="M15 5 V35 H10 V5 H15 Z" fill="#0284c7" />
+  
+  <!-- i Letter -->
+  <rect x="45" y="15" width="5" height="20" fill="#0284c7" />
+  <circle cx="47.5" y="10" r="2.5" fill="#0284c7" />
+  
+  <!-- t Letter -->
+  <rect x="55" y="10" width="15" height="5" fill="#0284c7" />
+  <rect x="60" y="10" width="5" height="25" fill="#0284c7" />
+  
+  <!-- g Letter -->
+  <path d="M80 15 Q85 15, 90 20 V25 Q90 30, 85 30 H80 Q75 30, 75 25 V20 Q75 15, 80 15 Z" fill="#0284c7" />
+  <path d="M90 30 V35 Q90 40, 85 40 H80 Q75 40, 75 35 H80 Q85 35, 85 30 H90 Z" fill="#0284c7" />
+  
+  <!-- a Letter -->
+  <path d="M100 15 Q105 15, 110 20 V30 H105 V25 Q105 20, 100 20 Q95 20, 95 25 V30 H100 V25 Z" fill="#0284c7" />
+  <path d="M95 30 H100 V25 Q100 30, 105 30 H95 Z" fill="#0284c7" />
+</svg>
